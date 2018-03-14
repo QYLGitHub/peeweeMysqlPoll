@@ -1,0 +1,5 @@
+setup.py
+peewee_mysqlpool.egg-info/PKG-INFO
+peewee_mysqlpool.egg-info/SOURCES.txt
+peewee_mysqlpool.egg-info/dependency_links.txt
+peewee_mysqlpool.egg-info/top_level.txt
